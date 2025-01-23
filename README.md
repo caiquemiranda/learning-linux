@@ -161,7 +161,4 @@ O Linux é um sistema operacional poderoso e flexível, amplamente utilizado em 
   ```bash
   command_name --help
   ```
-
----
-
-Este repositório tem como objetivo servir como referência e guia prático para aprender os fundamentos do Linux. Sinta-se à vontade para contribuir com exemplos e anotações adicionais!
+  
